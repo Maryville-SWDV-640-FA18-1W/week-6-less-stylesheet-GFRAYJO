@@ -1,0 +1,259 @@
+header {
+  background-color: #FFFFFF;
+  font-family: Serif;
+  text-align: left;
+  font-size: 18px;
+  max-width: 1350px;
+}
+header .h1 {
+  text-align: left;
+  font-family: Serif;
+  font-weight: bold;
+}
+body .navbar-navbar-inverse-navbar-static-top,
+nav .navbar-navbar-inverse-navbar-static-top,
+body .dropdown-toggle,
+nav .dropdown-toggle,
+body .caret,
+nav .caret {
+  background-color: #B0C4DE;
+  text-align: center;
+  justify-content: center;
+}
+body .navbar-navbar-inverse-navbar-static-top .collapse-navbar-collapse,
+nav .navbar-navbar-inverse-navbar-static-top .collapse-navbar-collapse,
+body .dropdown-toggle .collapse-navbar-collapse,
+nav .dropdown-toggle .collapse-navbar-collapse,
+body .caret .collapse-navbar-collapse,
+nav .caret .collapse-navbar-collapse,
+body .navbar-navbar-inverse-navbar-static-top #navbar-collapse-1,
+nav .navbar-navbar-inverse-navbar-static-top #navbar-collapse-1,
+body .dropdown-toggle #navbar-collapse-1,
+nav .dropdown-toggle #navbar-collapse-1,
+body .caret #navbar-collapse-1,
+nav .caret #navbar-collapse-1 {
+  color: #000000;
+  font-size: 18px;
+  margin: 10px;
+}
+body .navbar-navbar-inverse-navbar-static-top .mixin-class,
+nav .navbar-navbar-inverse-navbar-static-top .mixin-class,
+body .dropdown-toggle .mixin-class,
+nav .dropdown-toggle .mixin-class,
+body .caret .mixin-class,
+nav .caret .mixin-class {
+  color: #000000;
+  font-size: 18px;
+  margin: 10px;
+}
+body .navbar-navbar-inverse-navbar-static-top .mixin-id,
+nav .navbar-navbar-inverse-navbar-static-top .mixin-id,
+body .dropdown-toggle .mixin-id,
+nav .dropdown-toggle .mixin-id,
+body .caret .mixin-id,
+nav .caret .mixin-id {
+  color: #000000;
+  font-size: 18px;
+  margin: 10px;
+}
+body .navbar-navbar-inverse-navbar-static-top li,
+nav .navbar-navbar-inverse-navbar-static-top li,
+body .dropdown-toggle li,
+nav .dropdown-toggle li,
+body .caret li,
+nav .caret li,
+body .navbar-navbar-inverse-navbar-static-top a,
+nav .navbar-navbar-inverse-navbar-static-top a,
+body .dropdown-toggle a,
+nav .dropdown-toggle a,
+body .caret a,
+nav .caret a {
+  color: #000000;
+  font-size: 24px;
+  font-family: Serif;
+}
+body .navbar-navbar-inverse-navbar-static-top li .row.col-lg-6,
+nav .navbar-navbar-inverse-navbar-static-top li .row.col-lg-6,
+body .dropdown-toggle li .row.col-lg-6,
+nav .dropdown-toggle li .row.col-lg-6,
+body .caret li .row.col-lg-6,
+nav .caret li .row.col-lg-6,
+body .navbar-navbar-inverse-navbar-static-top a .row.col-lg-6,
+nav .navbar-navbar-inverse-navbar-static-top a .row.col-lg-6,
+body .dropdown-toggle a .row.col-lg-6,
+nav .dropdown-toggle a .row.col-lg-6,
+body .caret a .row.col-lg-6,
+nav .caret a .row.col-lg-6,
+body .navbar-navbar-inverse-navbar-static-top li .embed-responsive-item,
+nav .navbar-navbar-inverse-navbar-static-top li .embed-responsive-item,
+body .dropdown-toggle li .embed-responsive-item,
+nav .dropdown-toggle li .embed-responsive-item,
+body .caret li .embed-responsive-item,
+nav .caret li .embed-responsive-item,
+body .navbar-navbar-inverse-navbar-static-top a .embed-responsive-item,
+nav .navbar-navbar-inverse-navbar-static-top a .embed-responsive-item,
+body .dropdown-toggle a .embed-responsive-item,
+nav .dropdown-toggle a .embed-responsive-item,
+body .caret a .embed-responsive-item,
+nav .caret a .embed-responsive-item {
+  margin: 15px;
+  padding: 10px;
+}
+body .navbar-navbar-inverse-navbar-static-top li .row.col-lg-6 .row.col_lg-6,
+nav .navbar-navbar-inverse-navbar-static-top li .row.col-lg-6 .row.col_lg-6,
+body .dropdown-toggle li .row.col-lg-6 .row.col_lg-6,
+nav .dropdown-toggle li .row.col-lg-6 .row.col_lg-6,
+body .caret li .row.col-lg-6 .row.col_lg-6,
+nav .caret li .row.col-lg-6 .row.col_lg-6,
+body .navbar-navbar-inverse-navbar-static-top a .row.col-lg-6 .row.col_lg-6,
+nav .navbar-navbar-inverse-navbar-static-top a .row.col-lg-6 .row.col_lg-6,
+body .dropdown-toggle a .row.col-lg-6 .row.col_lg-6,
+nav .dropdown-toggle a .row.col-lg-6 .row.col_lg-6,
+body .caret a .row.col-lg-6 .row.col_lg-6,
+nav .caret a .row.col-lg-6 .row.col_lg-6,
+body .navbar-navbar-inverse-navbar-static-top li .embed-responsive-item .row.col_lg-6,
+nav .navbar-navbar-inverse-navbar-static-top li .embed-responsive-item .row.col_lg-6,
+body .dropdown-toggle li .embed-responsive-item .row.col_lg-6,
+nav .dropdown-toggle li .embed-responsive-item .row.col_lg-6,
+body .caret li .embed-responsive-item .row.col_lg-6,
+nav .caret li .embed-responsive-item .row.col_lg-6,
+body .navbar-navbar-inverse-navbar-static-top a .embed-responsive-item .row.col_lg-6,
+nav .navbar-navbar-inverse-navbar-static-top a .embed-responsive-item .row.col_lg-6,
+body .dropdown-toggle a .embed-responsive-item .row.col_lg-6,
+nav .dropdown-toggle a .embed-responsive-item .row.col_lg-6,
+body .caret a .embed-responsive-item .row.col_lg-6,
+nav .caret a .embed-responsive-item .row.col_lg-6,
+body .navbar-navbar-inverse-navbar-static-top li .row.col-lg-6 .p,
+nav .navbar-navbar-inverse-navbar-static-top li .row.col-lg-6 .p,
+body .dropdown-toggle li .row.col-lg-6 .p,
+nav .dropdown-toggle li .row.col-lg-6 .p,
+body .caret li .row.col-lg-6 .p,
+nav .caret li .row.col-lg-6 .p,
+body .navbar-navbar-inverse-navbar-static-top a .row.col-lg-6 .p,
+nav .navbar-navbar-inverse-navbar-static-top a .row.col-lg-6 .p,
+body .dropdown-toggle a .row.col-lg-6 .p,
+nav .dropdown-toggle a .row.col-lg-6 .p,
+body .caret a .row.col-lg-6 .p,
+nav .caret a .row.col-lg-6 .p,
+body .navbar-navbar-inverse-navbar-static-top li .embed-responsive-item .p,
+nav .navbar-navbar-inverse-navbar-static-top li .embed-responsive-item .p,
+body .dropdown-toggle li .embed-responsive-item .p,
+nav .dropdown-toggle li .embed-responsive-item .p,
+body .caret li .embed-responsive-item .p,
+nav .caret li .embed-responsive-item .p,
+body .navbar-navbar-inverse-navbar-static-top a .embed-responsive-item .p,
+nav .navbar-navbar-inverse-navbar-static-top a .embed-responsive-item .p,
+body .dropdown-toggle a .embed-responsive-item .p,
+nav .dropdown-toggle a .embed-responsive-item .p,
+body .caret a .embed-responsive-item .p,
+nav .caret a .embed-responsive-item .p {
+  margin: 10px;
+  font-weight: bold;
+  font-size: 18px;
+}
+body .navbar-navbar-inverse-navbar-static-top li .row.col-lg-6 .row.col_lg-6 .box-model,
+nav .navbar-navbar-inverse-navbar-static-top li .row.col-lg-6 .row.col_lg-6 .box-model,
+body .dropdown-toggle li .row.col-lg-6 .row.col_lg-6 .box-model,
+nav .dropdown-toggle li .row.col-lg-6 .row.col_lg-6 .box-model,
+body .caret li .row.col-lg-6 .row.col_lg-6 .box-model,
+nav .caret li .row.col-lg-6 .row.col_lg-6 .box-model,
+body .navbar-navbar-inverse-navbar-static-top a .row.col-lg-6 .row.col_lg-6 .box-model,
+nav .navbar-navbar-inverse-navbar-static-top a .row.col-lg-6 .row.col_lg-6 .box-model,
+body .dropdown-toggle a .row.col-lg-6 .row.col_lg-6 .box-model,
+nav .dropdown-toggle a .row.col-lg-6 .row.col_lg-6 .box-model,
+body .caret a .row.col-lg-6 .row.col_lg-6 .box-model,
+nav .caret a .row.col-lg-6 .row.col_lg-6 .box-model,
+body .navbar-navbar-inverse-navbar-static-top li .embed-responsive-item .row.col_lg-6 .box-model,
+nav .navbar-navbar-inverse-navbar-static-top li .embed-responsive-item .row.col_lg-6 .box-model,
+body .dropdown-toggle li .embed-responsive-item .row.col_lg-6 .box-model,
+nav .dropdown-toggle li .embed-responsive-item .row.col_lg-6 .box-model,
+body .caret li .embed-responsive-item .row.col_lg-6 .box-model,
+nav .caret li .embed-responsive-item .row.col_lg-6 .box-model,
+body .navbar-navbar-inverse-navbar-static-top a .embed-responsive-item .row.col_lg-6 .box-model,
+nav .navbar-navbar-inverse-navbar-static-top a .embed-responsive-item .row.col_lg-6 .box-model,
+body .dropdown-toggle a .embed-responsive-item .row.col_lg-6 .box-model,
+nav .dropdown-toggle a .embed-responsive-item .row.col_lg-6 .box-model,
+body .caret a .embed-responsive-item .row.col_lg-6 .box-model,
+nav .caret a .embed-responsive-item .row.col_lg-6 .box-model,
+body .navbar-navbar-inverse-navbar-static-top li .row.col-lg-6 .p .box-model,
+nav .navbar-navbar-inverse-navbar-static-top li .row.col-lg-6 .p .box-model,
+body .dropdown-toggle li .row.col-lg-6 .p .box-model,
+nav .dropdown-toggle li .row.col-lg-6 .p .box-model,
+body .caret li .row.col-lg-6 .p .box-model,
+nav .caret li .row.col-lg-6 .p .box-model,
+body .navbar-navbar-inverse-navbar-static-top a .row.col-lg-6 .p .box-model,
+nav .navbar-navbar-inverse-navbar-static-top a .row.col-lg-6 .p .box-model,
+body .dropdown-toggle a .row.col-lg-6 .p .box-model,
+nav .dropdown-toggle a .row.col-lg-6 .p .box-model,
+body .caret a .row.col-lg-6 .p .box-model,
+nav .caret a .row.col-lg-6 .p .box-model,
+body .navbar-navbar-inverse-navbar-static-top li .embed-responsive-item .p .box-model,
+nav .navbar-navbar-inverse-navbar-static-top li .embed-responsive-item .p .box-model,
+body .dropdown-toggle li .embed-responsive-item .p .box-model,
+nav .dropdown-toggle li .embed-responsive-item .p .box-model,
+body .caret li .embed-responsive-item .p .box-model,
+nav .caret li .embed-responsive-item .p .box-model,
+body .navbar-navbar-inverse-navbar-static-top a .embed-responsive-item .p .box-model,
+nav .navbar-navbar-inverse-navbar-static-top a .embed-responsive-item .p .box-model,
+body .dropdown-toggle a .embed-responsive-item .p .box-model,
+nav .dropdown-toggle a .embed-responsive-item .p .box-model,
+body .caret a .embed-responsive-item .p .box-model,
+nav .caret a .embed-responsive-item .p .box-model {
+  text-align: left;
+  padding: 20px;
+  border: 5px, #808080;
+  margin: 20px;
+}
+@media all and (min-width: 560px) {
+  body .navbar-navbar-inverse-navbar-static-top li .row.col-lg-6 .row.col_lg-6 div.embed-responsive-item,
+  nav .navbar-navbar-inverse-navbar-static-top li .row.col-lg-6 .row.col_lg-6 div.embed-responsive-item,
+  body .dropdown-toggle li .row.col-lg-6 .row.col_lg-6 div.embed-responsive-item,
+  nav .dropdown-toggle li .row.col-lg-6 .row.col_lg-6 div.embed-responsive-item,
+  body .caret li .row.col-lg-6 .row.col_lg-6 div.embed-responsive-item,
+  nav .caret li .row.col-lg-6 .row.col_lg-6 div.embed-responsive-item,
+  body .navbar-navbar-inverse-navbar-static-top a .row.col-lg-6 .row.col_lg-6 div.embed-responsive-item,
+  nav .navbar-navbar-inverse-navbar-static-top a .row.col-lg-6 .row.col_lg-6 div.embed-responsive-item,
+  body .dropdown-toggle a .row.col-lg-6 .row.col_lg-6 div.embed-responsive-item,
+  nav .dropdown-toggle a .row.col-lg-6 .row.col_lg-6 div.embed-responsive-item,
+  body .caret a .row.col-lg-6 .row.col_lg-6 div.embed-responsive-item,
+  nav .caret a .row.col-lg-6 .row.col_lg-6 div.embed-responsive-item,
+  body .navbar-navbar-inverse-navbar-static-top li .embed-responsive-item .row.col_lg-6 div.embed-responsive-item,
+  nav .navbar-navbar-inverse-navbar-static-top li .embed-responsive-item .row.col_lg-6 div.embed-responsive-item,
+  body .dropdown-toggle li .embed-responsive-item .row.col_lg-6 div.embed-responsive-item,
+  nav .dropdown-toggle li .embed-responsive-item .row.col_lg-6 div.embed-responsive-item,
+  body .caret li .embed-responsive-item .row.col_lg-6 div.embed-responsive-item,
+  nav .caret li .embed-responsive-item .row.col_lg-6 div.embed-responsive-item,
+  body .navbar-navbar-inverse-navbar-static-top a .embed-responsive-item .row.col_lg-6 div.embed-responsive-item,
+  nav .navbar-navbar-inverse-navbar-static-top a .embed-responsive-item .row.col_lg-6 div.embed-responsive-item,
+  body .dropdown-toggle a .embed-responsive-item .row.col_lg-6 div.embed-responsive-item,
+  nav .dropdown-toggle a .embed-responsive-item .row.col_lg-6 div.embed-responsive-item,
+  body .caret a .embed-responsive-item .row.col_lg-6 div.embed-responsive-item,
+  nav .caret a .embed-responsive-item .row.col_lg-6 div.embed-responsive-item,
+  body .navbar-navbar-inverse-navbar-static-top li .row.col-lg-6 .p div.embed-responsive-item,
+  nav .navbar-navbar-inverse-navbar-static-top li .row.col-lg-6 .p div.embed-responsive-item,
+  body .dropdown-toggle li .row.col-lg-6 .p div.embed-responsive-item,
+  nav .dropdown-toggle li .row.col-lg-6 .p div.embed-responsive-item,
+  body .caret li .row.col-lg-6 .p div.embed-responsive-item,
+  nav .caret li .row.col-lg-6 .p div.embed-responsive-item,
+  body .navbar-navbar-inverse-navbar-static-top a .row.col-lg-6 .p div.embed-responsive-item,
+  nav .navbar-navbar-inverse-navbar-static-top a .row.col-lg-6 .p div.embed-responsive-item,
+  body .dropdown-toggle a .row.col-lg-6 .p div.embed-responsive-item,
+  nav .dropdown-toggle a .row.col-lg-6 .p div.embed-responsive-item,
+  body .caret a .row.col-lg-6 .p div.embed-responsive-item,
+  nav .caret a .row.col-lg-6 .p div.embed-responsive-item,
+  body .navbar-navbar-inverse-navbar-static-top li .embed-responsive-item .p div.embed-responsive-item,
+  nav .navbar-navbar-inverse-navbar-static-top li .embed-responsive-item .p div.embed-responsive-item,
+  body .dropdown-toggle li .embed-responsive-item .p div.embed-responsive-item,
+  nav .dropdown-toggle li .embed-responsive-item .p div.embed-responsive-item,
+  body .caret li .embed-responsive-item .p div.embed-responsive-item,
+  nav .caret li .embed-responsive-item .p div.embed-responsive-item,
+  body .navbar-navbar-inverse-navbar-static-top a .embed-responsive-item .p div.embed-responsive-item,
+  nav .navbar-navbar-inverse-navbar-static-top a .embed-responsive-item .p div.embed-responsive-item,
+  body .dropdown-toggle a .embed-responsive-item .p div.embed-responsive-item,
+  nav .dropdown-toggle a .embed-responsive-item .p div.embed-responsive-item,
+  body .caret a .embed-responsive-item .p div.embed-responsive-item,
+  nav .caret a .embed-responsive-item .p div.embed-responsive-item {
+    float: left;
+    margin: 10px;
+  }
+}
